@@ -1,7 +1,7 @@
 ## Olá, sou o Victor👋
 
 <ul align="justify">
-  <li>💻 Estudei desenvolvimento web na Trybe, onde tive a oportunidade de realizar aplicações web completas, ultizando as stacks listadas.</li>
+  <li>💻 Estudei desenvolvimento web na Trybe, onde tive a oportunidade de realizar aplicações web completas, ultizando JavaScript e Node.js.</li>
   <li>🥶 Sofrendo com o frio de Curitiba desde 94.</li>
   <li>🏃🏻 Gosto de levar uma vida saudável, rato de academia mas nem tanto, tudo uma questão de equilíbrio 😄</li>
   <li>🎮 Videogames fazem parte da minha vida, já joguei de tudo e adoro jogos competitivos, recentemente tenho me aventurado nos jogos de luta.</li>
