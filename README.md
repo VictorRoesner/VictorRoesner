@@ -6,7 +6,7 @@
   <li>🏃🏻 Gosto de levar uma vida saudável, rato de academia mas nem tanto, tudo uma questão de equilíbrio 😄</li>
   <li>🎮 Videogames fazem parte da minha vida, já joguei de tudo e adoro jogos competitivos, recentemente tenho me aventurado nos jogos de luta.</li>
   <li>🎵 Completamente apaixonado por música, as bandas da minha vida são Black Sabbath e Sticky Fingers.</li>
-  <li>🛬 Adoro viajar e conhecer novas culturas, já morei 1 ano na Austrália 🇦🇺 e 6 meses na Holanda 🇳🇱
+  <li>🛬 Adoro viajar e conhecer novas culturas, já morei 1 ano na Austrália 🇦🇺 e 6 meses na Holanda 🇳🇱.</li>
   <li>👨🏻‍💻 Atualmente estou em busca da primeira oportunidade como <strong>Dev<strong> e focado em aprimorar minhas habilidades no <strong>front-end</strong>, utilizando React/Redux.</li>
   
 </ul>
