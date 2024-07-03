@@ -2,12 +2,7 @@
 
 <ul align="justify">
   <li>💻 Estudando desenvolvimento web na Trybe, onde tive a oportunidade de realizar aplicações web completas, com JavaScript/Node.js.</li>
-  <li>🥶 Sofrendo com o frio de Curitiba desde 94.</li>
-  <li>🏃‍♂️ Gosto de treinar e levar uma vida saudavél. Mas tudo com equilíbrio 😄.
-  <li>🎮 Sempre gostei de jogos competitivos, recentemente tenho me aventurado em jogos de luta.</li>
-  <li>🎵 Completamente apaixonado por música, as bandas da minha vida são Black Sabbath e Sticky Fingers.</li>
-  <li>🛬 Adoro viajar e conhecer novas culturas, já morei 1 ano na Austrália 🇦🇺 e 6 meses na Holanda 🇳🇱.</li>
-  <li>👨🏻‍💻 Atualmente estou em busca da primeira oportunidade como <strong>desenvolvedor</strong>, e focado em aprimorar minhas habilidades no <strong>front-end</strong>, utilizando React/Redux.</li>
+
   
 </ul>
 
